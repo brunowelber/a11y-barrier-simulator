@@ -1,7 +1,7 @@
 # A11Y Barrier Simulator 🚀
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Userscript Install](https://img.shields.io/badge/instalar-userscript-brightgreen)](https://raw.githubusercontent.com/brunowelber/a11y-barrier-simulator/main/a11y-barrier-simulator.js)
+[![Instalar o script](https://img.shields.io/badge/instalar-userscript-brightgreen)]([https://raw.githubusercontent.com/brunowelber/a11y-barrier-simulator/main/a11y-barrier-simulator.js](https://raw.githubusercontent.com/brunowelber/a11y-barrier-simulator/refs/heads/main/A11Y-Barrier-Simulator.js))
 
 Um **userscript** para Tampermonkey, Violentmonkey ou Greasemonkey que deixa você **ligar/desligar 11 barreiras de acessibilidade** em qualquer página, direto do navegador.  
 Ideal para gerar empatia, treinar equipes e descobrir problemas de design antes que cheguem ao usuário final.
@@ -43,7 +43,12 @@ Ideal para gerar empatia, treinar equipes e descobrir problemas de design antes 
 ## Instalação Rápida
 
 1. Instale um gerenciador de userscripts (Tampermonkey, Violentmonkey ou Greasemonkey).  
-2. Clique no badge **“Instalar userscript”** no topo deste README. O script será adicionado e receberá atualizações automáticas (`@updateURL` definido).
+
+- [Tampermonkey](https://www.tampermonkey.net/) (Chrome, Firefox, Edge, Safari, Opera)
+- [Greasemonkey](https://www.greasespot.net/) (Firefox)
+- [Violentmonkey](https://violentmonkey.github.io/) (Chrome, Firefox, Edge, Opera)
+
+2. Clique no badge **“Instalar script”** no topo deste README. O script será adicionado e receberá atualizações automáticas (`@updateURL` definido).
 
 ---
 
