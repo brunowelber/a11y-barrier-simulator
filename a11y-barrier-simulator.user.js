@@ -9,8 +9,8 @@
 // @match        *://*/*
 // @run-at       document-end
 // @grant        GM_addStyle
-// @downloadURL  https://raw.githubusercontent.com/brunowelber/a11y-barrier-simulator/main/A11Y-Barrier-Simulator.js
-// @updateURL    https://raw.githubusercontent.com/brunowelber/a11y-barrier-simulator/main/A11Y-Barrier-Simulator.js
+// @downloadURL  https://raw.githubusercontent.com/brunowelber/a11y-barrier-simulator/main/a11y-barrier-simulator.user.js
+// @updateURL    https://raw.githubusercontent.com/brunowelber/a11y-barrier-simulator/main/a11y-barrier-simulator.user.js
 // @license MIT
 // ==/UserScript==
 

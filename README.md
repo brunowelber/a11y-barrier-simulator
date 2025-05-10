@@ -1,6 +1,6 @@
 # A11Y Barrier Simulator 🚀
 
-[Instalar script](https://raw.githubusercontent.com/brunowelber/a11y-barrier-simulator/main/A11Y-Barrier-Simulator.js)
+[Instalar script](https://raw.githubusercontent.com/brunowelber/a11y-barrier-simulator/main/a11y-barrier-simulator.user.js)
 
 Um **userscript** para Tampermonkey, Violentmonkey ou Greasemonkey que deixa você **ligar/desligar 11 barreiras de acessibilidade** em qualquer página, direto do navegador.  
 Ideal para gerar empatia, treinar equipes e descobrir problemas de design antes que cheguem ao usuário final.
@@ -47,7 +47,7 @@ Ideal para gerar empatia, treinar equipes e descobrir problemas de design antes 
    - [Violentmonkey](https://violentmonkey.github.io/) — Chrome, Firefox, Edge, Opera  
    - [Greasemonkey](https://www.greasespot.net/) — Firefox  
 
-2. Clique em **[Instalar Script](https://raw.githubusercontent.com/brunowelber/a11y-barrier-simulator/main/A11Y-Barrier-Simulator.js)**  
+2. Clique em **[Instalar Script](https://raw.githubusercontent.com/brunowelber/a11y-barrier-simulator/main/a11y-barrier-simulator.user.js)**  
    O gerenciador detecta o arquivo, exibe a tela de confirmação e adiciona o script com atualização automática (`@updateURL` já configurado).
 
 ---
@@ -55,17 +55,17 @@ Ideal para gerar empatia, treinar equipes e descobrir problemas de design antes 
 ### 🛠️ Instalação Manual / Avançada
 
 1. Abra o painel do seu gerenciador de userscripts.  
-2. Crie um **novo script** em branco.  
-3. Faça **uma** das opções abaixo:  
+2. Crie um novo script em branco.  
+3. Faça uma das opções abaixo:  
    - **Opção A – via URL**  
      - Cole este endereço na opção “Instalar do URL”:  
        ```
-       https://raw.githubusercontent.com/brunowelber/a11y-barrier-simulator/main/A11Y-Barrier-Simulator.js
+       https://raw.githubusercontent.com/brunowelber/a11y-barrier-simulator/main/a11y-barrier-simulator.user.js
        ```  
    - **Opção B – copiando o código**  
-     - Baixe ou abra o arquivo [.js](https://raw.githubusercontent.com/brunowelber/a11y-barrier-simulator/main/A11Y-Barrier-Simulator.js), copie todo o conteúdo e cole no editor do script.
+     - Baixe ou abra o arquivo [.js](https://raw.githubusercontent.com/brunowelber/a11y-barrier-simulator/main/a11y-barrier-simulator.user.js), copie todo o conteúdo e cole no editor do script.
 
-4. Salve. O script será carregado em **todas as páginas** (`@match *://*/*`) sempre que o navegador for aberto.
+4. Salve. O script será carregado em todas as páginas (`@match *://*/*`) sempre que o navegador for aberto.
 
 ---
 
