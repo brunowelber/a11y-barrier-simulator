@@ -4,8 +4,13 @@
 // @version      1.1
 // @description  Call and turn off 11+ accessibility barriers for quick testing, with warning for complex simulations.
 // @author       Bruno Welber
+// @homepageURL  https://github.com/brunowelber/a11y-barrier-simulator
+// @supportURL   https://github.com/brunowelber/a11y-barrier-simulator/issues
 // @match        *://*/*
+// @run-at       document-end
 // @grant        GM_addStyle
+// @downloadURL  https://raw.githubusercontent.com/brunowelber/a11y-barrier-simulator/main/A11Y-Barrier-Simulator.js
+// @updateURL    https://raw.githubusercontent.com/brunowelber/a11y-barrier-simulator/main/A11Y-Barrier-Simulator.js
 // @license MIT
 // ==/UserScript==
 
